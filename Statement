@@ -1,0 +1,18 @@
+Problem Statement
+
+The project addresses the problem of identifying students who may be academically at risk. The objective is to design and implement a technical solution using Artificial Intelligence and Machine Learning concepts to perform prediction or classification based on relevant student data.
+The system is intended to demonstrate the application of concepts learned in the course by identifying a meaningful problem, designing a technical solution, implementing it using appropriate tools and methods, and evaluating the resulting solution.
+
+Scope of the Project
+
+The scope of the project includes developing a machine learning-based prediction or classification system. The project covers data input and processing, prediction or classification, and reporting or analytics as its major functional areas.
+The project also includes the design and documentation of the system through appropriate architecture and workflow diagrams, along with dataset description, model selection rationale, and evaluation methodology applicable to an ML-related project.
+
+Target Users
+
+The target users of the project are students and academic users who can interact with the system and use its prediction, classification, or analytics functionality.
+
+High-Level Features
+
+The project provides data input and processing functionality for handling the required project data. It provides a prediction or classification module based on the implemented Machine Learning approach. It also provides reporting or analytics functionality for presenting relevant results.
+The system follows a logical workflow from input and processing to prediction or classification and presentation of results. The implementation is organized into meaningful modules with appropriate validation, error handling, documentation, testing, and version control.
